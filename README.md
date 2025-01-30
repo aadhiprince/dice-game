@@ -13,7 +13,7 @@ A fun two-player game where players guess the dice roll, and the player with the
 4️⃣ Refresh the page to play again.  
 
 ## Live Demo  
-🔗 [Live Link](#) *(Replace `#` with your actual link)*  
+🔗 [Live Link](https://aadhiprince.github.io/dice-game/)
 
 ## Technologies Used  
 - HTML  
